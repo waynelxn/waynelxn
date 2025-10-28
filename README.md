@@ -7,8 +7,8 @@
 
 # 💻 Tech Stack:
 ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[Ruby]
-(https://img.shields.io/badge/Ruby-CC342D?logo=Ruby&logoColor=white)
+![Ruby]
+(https://img.shields.io/badge/Ruby-CC342D?logo=Ruby&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=waynelxn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=waynelxn&theme=dark&hide_border=false)<br/>
