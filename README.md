@@ -1,6 +1,5 @@
 # 💫 About Me:
-im a skid<br>i tryna learn how to code<br>so here i am watching YouTube tutorial videos<br>also i preventing ai/chatgpt because it makes me dumber<br><br>i love ruby so much its easy to understand<br>i love ruby syntax and more<br>im still learning it yet<br><br>all i can say is don't be a skid go learn something
-
+im a human named wayne
 
 # 💻 Tech Stack:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
