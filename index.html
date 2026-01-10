@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>waynelxn</title>
+    <meta name="description" content="obviously my website lol">
+    <link rel="icon" type="image/png" href="icon.png">
+    <meta property="og:title" content="Wayne">
+    <meta property="og:description" content="my website yo">
+    <meta property="og:image" content="icon.png">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap" rel="stylesheet">
+    
+    <!-- GSAP -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-container">
+            <div class="nav-content">
+                <a href="#home" class="nav-logo">waynelxn ✿ </a>
+                <div class="nav-links">
+                    <button onclick="scrollToSection('home')" class="nav-link">home</button>
+                    <button onclick="scrollToSection('about')" class="nav-link">about</button>
+                    <button onclick="scrollToSection('contact')" class="nav-link">contact</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Home Section -->
+    <section id="home" class="section-home">
+        <div class="container text-center">
+            <div class="home-greeting">
+                HI, I'M <span class="accent-text-purple">wayne</span>
+            </div>
+            
+            <h1 class="hero-title">
+                [Wayne]
+                Otaku
+            </h1>
+
+            <p class="hero-description">
+                yo ●'◡'● <br>
+               I’m 6’7”, a Labubu and matcha lover, effortlessly confident and laid-back.
+            </p>
+
+            <div class="hero-buttons">
+                <button onclick="scrollToSection('about')" class="btn-outline">
+                    Stalk me
+                </button>
+                <button onclick="scrollToSection('contact')" class="btn-primary">
+                    Give me a head
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section portfolio-section">
+        <div class="container">
+            <h2 class="section-title">ABOUT</h2>
+            
+            <div class="about-content">
+                <p>
+                    Buy my API <br>
+                    soon <br>
+                    soon
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section section-alt portfolio-section">
+        <div class="container text-center">
+            <h2 class="section-title">Stalk Here</h2>
+            
+            <p class="contact-description">
+                want to say hi? 
+                Stalk me here (▰˘◡˘▰)
+            </p>
+            
+            <div class="contact-info">
+                <div>
+                    <a href="#" class="contact-email">
+                        waynelxn@duck.com
+                    </a>
+                </div>
+                
+                <div class="social-links">
+                    <a href="https://github.com/waynelxn" class="social-link">GITHUB</a>
+                    <a href="https://discord.com/users/1329390786206367766" class="social-link">DISCORD</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container text-center">
+            <p>
+                © 2025 wayne — ALL RIGHTS RESERVED
+            </p>
+            <p class="footer-note">
+                <span class="accent-text"><a class="accent-text" href="https://github.com/kayspace/portfolio-template" target="_blank">✿Look source code </a></span>
+            </p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
